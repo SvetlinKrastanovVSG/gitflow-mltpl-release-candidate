@@ -1,3 +1,7 @@
 First commit Details: 
 
 Issue 1 is needs to be merged to latest development version
+
+Second commit Details: 
+
+Kickback - not implemented correctly 
