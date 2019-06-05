@@ -1,6 +1,6 @@
 First commit Details: 
 
-Issue 1 is needs to be merged to latest development version
+Issue 1 - created project - needs to be merged to latest development version
 
 Second commit Details: 
 
